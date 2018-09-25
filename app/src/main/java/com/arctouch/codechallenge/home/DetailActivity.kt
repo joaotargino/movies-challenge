@@ -2,6 +2,7 @@ package com.arctouch.codechallenge.home
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.arctouch.codechallenge.R
 import com.arctouch.codechallenge.model.Genre
 import com.arctouch.codechallenge.model.Movie
 import com.arctouch.codechallenge.util.MovieImageUrlBuilder

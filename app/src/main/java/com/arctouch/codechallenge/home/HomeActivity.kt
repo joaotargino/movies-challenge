@@ -10,6 +10,7 @@ import android.view.Menu
 import android.view.View
 import android.widget.SearchView
 import android.widget.Toast
+import com.arctouch.codechallenge.R
 import com.arctouch.codechallenge.model.Movie
 import com.arctouch.codechallenge.presenter.HomePresenter
 import com.arctouch.codechallenge.presenter.HomeViewInterface
