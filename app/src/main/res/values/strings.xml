@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Code Challenge</string>
     <string name="movie_and_genres">%s - %s</string>
+    <string name="release_text">Lançamento: </string>
+    <string name="internet_failed">Verifique sua conexão com a internet.</string>
+    <string name="something_wrong">Aconteceu algum problema na busca. Tente novamente</string>
+    <string name="search_title">Buscar filme</string>
+    <string name="search_hint">Digite o título do filme</string>
 </resources>
